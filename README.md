@@ -14,3 +14,8 @@ git add
 git clone url
 git pull
 git push
+git checkout -b "name" git branch to create a new branch
+
+## Learning about branches in github
+
+This section teaches about how to work with branches in github
