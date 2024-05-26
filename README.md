@@ -19,3 +19,5 @@ git checkout -b "name" git branch to create a new branch
 ## Learning about branches in github
 
 This section teaches about how to work with branches in github
+
+![Alt text](https://github.com/Beezyblack/demo-repo/blob/main/images/IMG_0749.JPG?raw=true)
